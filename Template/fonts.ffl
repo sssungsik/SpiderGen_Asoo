@@ -1,0 +1,7 @@
+{
+  "styleName": "fonts",
+  "items": {
+    "edit_here": "\r\n@font-face {\r\n\tfont-family: 'edit_here' !no;\r\n\t\r\n\r\n}\r\n",
+    "NanumSquareR": "@font-face {\r\n    font-family: 'NanumSquareR';\r\n    src: url('https://www.spidergen.org:3003/Assets/font/NanumSquareR.ttf') format('truetype');\r\n}\r\n"
+  }
+}

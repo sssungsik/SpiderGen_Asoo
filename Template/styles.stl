@@ -1,0 +1,7 @@
+{
+  "styleName": "styles",
+  "items": {
+    "edit_here": "\r\n.edit_here\r\n{\r\n\t/* TODO:edit here */\r\n\r\n}\r\n",
+    "font-color-136": ".font-color-136\r\n{\r\n    color: rgb(136, 136, 136);\r\n}\r\n\r\n"
+  }
+}

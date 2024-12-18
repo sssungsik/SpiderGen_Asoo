@@ -38,6 +38,22 @@
             "name": "Report1App_global.stl",
             "relType": 1,
             "path": "Template\\"
+          },
+          {
+            "type": 13,
+            "name": "fonts.ffl",
+            "action": 12,
+            "relType": 1,
+            "path": "Template\\",
+            "comment": ""
+          },
+          {
+            "type": 4,
+            "name": "styles.stl",
+            "action": 8,
+            "relType": 1,
+            "path": "Template\\",
+            "comment": ""
           }
         ]
       },
@@ -49,7 +65,26 @@
       {
         "type": 1,
         "name": "Assets",
-        "children": []
+        "children": [
+          {
+            "type": 1,
+            "name": "images",
+            "children": [
+              {
+                "type": 1,
+                "name": "logo",
+                "children": [
+                  {
+                    "type": 8,
+                    "name": "asoo_logo.png",
+                    "relType": 1,
+                    "path": "\\"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       },
       {
         "type": 1,
