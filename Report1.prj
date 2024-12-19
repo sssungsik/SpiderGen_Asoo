@@ -156,6 +156,30 @@
                     "name": "img_main_02.png",
                     "relType": 1,
                     "path": "\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "img_main_06.png",
+                    "relType": 1,
+                    "path": "\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "img_main_03.png",
+                    "relType": 1,
+                    "path": "\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "img_main_04.png",
+                    "relType": 1,
+                    "path": "\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "img_main_05.png",
+                    "relType": 1,
+                    "path": "\\"
                   }
                 ]
               }

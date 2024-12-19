@@ -1,6 +1,8 @@
 {
 	"changed": [
-		"C:\\Users\\asoosoft29\\Documents\\SpiderGenWorkspace\\Report1\\bin\\Source\\items\\main.html"
+		"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\bin\\Assets\\images\\background\\img_main_04.png",
+		"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\bin\\Assets\\images\\background\\img_main_05.png",
+		"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\bin\\Source\\items\\main.html"
 	],
 	"version": "4.2.0",
 	"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\Framework\\afc\\library\\jquery-core.js": 1734524578803.001,
@@ -189,13 +191,13 @@
 	"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\Framework\\afc\\style\\compEx.css": 1734524578808.4353,
 	"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\Framework\\afc\\style\\jquery-ui.css": 1734524578808.4353,
 	"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\Source\\Report1App.js": 1734524578808.4353,
-	"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\Source\\MainView.js": 1734524578808.4353,
+	"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\Source\\MainView.js": 1734620514661.0989,
 	"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\Template\\Report1App_global.stl": 1734524578808.4353,
-	"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\Source\\MainView.lay": 1734532948572.1116,
+	"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\Source\\MainView.lay": 1734620514664.0378,
 	"concat": true,
 	"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\\\asoo_logo.png": 1734531840444.8538,
-	"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\Template\\fonts.ffl": 1734532271327.4368,
-	"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\Template\\styles.stl": 1734532819746.8567,
+	"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\Template\\fonts.ffl": 1734620514666.5232,
+	"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\Template\\styles.stl": 1734620514666.5232,
 	"C:\\Users\\asoosoft29\\Documents\\SpiderGenWorkspace\\Report1\\Framework\\afc\\library\\jquery-core.js": 1734025426000,
 	"C:\\Users\\asoosoft29\\Documents\\SpiderGenWorkspace\\Report1\\Framework\\afc\\library\\jquery-ui.js": 1734025426000,
 	"C:\\Users\\asoosoft29\\Documents\\SpiderGenWorkspace\\Report1\\Framework\\afc\\library\\jquery.ui.touch-punch.js": 1734025426000,
@@ -400,5 +402,22 @@
 	"C:\\Users\\asoosoft29\\Documents\\SpiderGenWorkspace\\Report1\\\\ic_documents_05.png": 1734588285567.3008,
 	"C:\\Users\\asoosoft29\\Documents\\SpiderGenWorkspace\\Report1\\\\ic_documents_02.png": 1734588282683.3464,
 	"C:\\Users\\asoosoft29\\Documents\\SpiderGenWorkspace\\Report1\\\\img_main_01.png": 1734591685821.4238,
-	"C:\\Users\\asoosoft29\\Documents\\SpiderGenWorkspace\\Report1\\\\img_main_02.png": 1734593290349.1313
+	"C:\\Users\\asoosoft29\\Documents\\SpiderGenWorkspace\\Report1\\\\img_main_02.png": 1734593290349.1313,
+	"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\\\spidergen_logo.png": 1734620514687.4033,
+	"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\\\ic_login.png": 1734620514683.4363,
+	"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\\\ic_download_01.png": 1734620514676.5576,
+	"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\\\ic_download_02.png": 1734620514676.5576,
+	"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\\\ic_documents_01.png": 1734620514676.5576,
+	"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\\\ic_documents_06.png": 1734620514676.5576,
+	"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\\\ic_documents_05.png": 1734620514676.5576,
+	"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\\\ic_documents_02.png": 1734620514676.5576,
+	"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\\\main_visual.jpg": 1734620514687.4033,
+	"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\\\img_main_01.png": 1734620514684.5857,
+	"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\\\img_main_02.png": 1734620514685.7578,
+	"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\Source\\main.js": 1734620514666.5232,
+	"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\Source\\main.lay": 1734621838540.6758,
+	"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\\\img_main_06.png": 1734621258084.202,
+	"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\\\img_main_03.png": 1734621206475.3013,
+	"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\\\img_main_04.png": 1734621226040.6677,
+	"C:\\Users\\최성식의 전자도서관\\Desktop\\프로젝트\\SpiderGen_Asoo\\\\img_main_05.png": 1734621245373.8308
 }
