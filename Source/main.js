@@ -1,5 +1,5 @@
 
-MainView = class MainView extends AView
+main = class main extends AView
 {
 	constructor()
 	{
@@ -23,8 +23,6 @@ MainView = class MainView extends AView
 
 		//TODO:edit here
 
-     
-
 	}
 
 	onActiveDone(isFirst)
@@ -32,9 +30,6 @@ MainView = class MainView extends AView
 		super.onActiveDone(isFirst)
 
 		//TODO:edit here
-        this.mainTabView.addTab( 'home', 'Source/items/main.lay', 'home');
-
-        this.mainTabView.selectTabById( 'home');
 
 	}
 

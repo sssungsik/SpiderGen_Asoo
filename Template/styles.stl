@@ -2,6 +2,10 @@
   "styleName": "styles",
   "items": {
     "edit_here": "\r\n.edit_here\r\n{\r\n\t/* TODO:edit here */\r\n\r\n}\r\n",
-    "font-color-136": ".font-color-136\r\n{\r\n    color: rgb(136, 136, 136);\r\n}\r\n\r\n"
+    "font-color-136": ".font-color-136\r\n{\r\n    color: rgb(136, 136, 136);\r\n}\r\n\r\n",
+    "header_menu": ".header_menu\r\n{\r\n    line-height: 14px;\r\n    padding-bottom: 10px;\r\n    font-size: 14px;\r\n    margin-top: 10px;\r\n    padding-left: 10px;\r\n    padding-right: 10px;\r\n    margin-left: 30px;\r\n    background: none;\r\n    cursor: pointer;\r\n\r\n}\r\n\r\n",
+    "font_color_230": ".font_color_230\r\n{\r\n    color: rgb(230, 230, 230);\r\n}\r\n\r\n",
+    "main_hero_label_1": ".main_hero_label_1\r\n{\r\n}\r\n\r\n",
+    "ws_noWrap": ".ws_noWrap\r\n{\r\n    white-space: nowrap;\r\n}\r\n\r\n"
   }
 }
