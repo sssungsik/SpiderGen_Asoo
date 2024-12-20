@@ -3,13 +3,13 @@
         ><div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 75px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); margin-left: auto; margin-right: auto; max-width: 1100px; overflow: hidden;"
             ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 100%; align-items: center; left: 0px; top: 0px; position: relative; background-color: rgba(0, 0, 0, 0);"
                 ><div style="position: relative; box-sizing: border-box;"
-                    ><button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 160px; height: 26px; left: 0px; top: 0px; position: relative; background-image: url(&quot;Assets/images/logo/spidergen_logo.png&quot;); background-color: rgba(0, 0, 30, 0); overflow: hidden; display: block;"></button
+                    ><button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 160px; height: 26px; left: 0px; top: 0px; position: relative; background-image: url(&quot;Assets/images/logo/spidergen_logo.png&quot;); background-color: rgba(0, 0, 30, 0); overflow: hidden; display: block;" data-listener-click="MainView:homeBtn"></button
                 ></div
                 ><div style="position: relative; box-sizing: border-box;"
-                    ><button data-base="AButton" data-class="AButton" class="AButton-Style header_menu" style="width: auto; height: 35px; left: 0px; top: 0px; position: relative; background-color: rgba(0, 0, 0, 0); font-family: NanumSquareR; color: rgb(230, 230, 230); overflow: hidden; display: block;" data-style="header_menu">도큐먼트</button
+                    ><button data-base="AButton" data-class="AButton" class="AButton-Style header_menu" style="width: auto; height: 35px; left: 0px; top: 0px; position: relative; background-color: rgba(0, 0, 0, 0); font-family: NanumSquareR; color: rgb(230, 230, 230); overflow: hidden; display: block;" data-style="header_menu" data-listener-click="MainView:docBtn">도큐먼트</button
                 ></div
                 ><div style="position: relative; box-sizing: border-box;"
-                    ><button data-base="AButton" data-class="AButton" class="AButton-Style header_menu" style="width: auto; height: 35px; left: 0px; top: 0px; position: relative; background-color: rgba(0, 0, 0, 0); font-family: NanumSquareR; color: rgb(230, 230, 230); overflow: hidden; display: block;" data-style="header_menu">커뮤니티</button
+                    ><button data-base="AButton" data-class="AButton" class="AButton-Style header_menu" style="width: auto; height: 35px; left: 0px; top: 0px; position: relative; background-color: rgba(0, 0, 0, 0); font-family: NanumSquareR; color: rgb(230, 230, 230); overflow: hidden; display: block;" data-style="header_menu" data-listener-click="MainView:commBtn">커뮤니티</button
                 ></div
                 ><div style="position: relative; box-sizing: border-box;"
                     ><button data-base="AButton" data-class="AButton" class="AButton-Style header_menu" style="width: auto; height: 35px; left: 0px; top: 0px; position: relative; background-color: rgba(0, 0, 0, 0); font-family: NanumSquareR; color: rgb(230, 230, 230); overflow: hidden; display: block;" data-style="header_menu">다운로드</button
